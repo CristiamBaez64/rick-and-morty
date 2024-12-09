@@ -1,8 +1,11 @@
-# React + Vite
+This client-side application has been created with React, implementing GraphQL for the consumption of the Rick And Morty public API.
+https://rickandmortyapi.com/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To run the application just run the following command
+npm run dev
 
-Currently, two official plugins are available:
+Once the command is executed, you can click on the localhost link that is printed by console, and the application will open with the initial design of the requested mockup.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Pending to finish consuming the service and styling the page.
+
+Thank you very much.
